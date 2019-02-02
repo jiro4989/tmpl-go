@@ -11,7 +11,7 @@ Goのテンプレートリポジトリ (CLI用途)
 ```bash
 hub clone jiro4989/tmpl-go
 cd tmpl-go
-./create_repository.sh repo_name
+./create_repository.sh repo_name your_name
 ```
 
 これでgitリポジトリの作成まで完了する。
